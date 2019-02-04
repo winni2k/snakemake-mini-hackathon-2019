@@ -1,0 +1,1 @@
+# snakemake-mini-hackathon-2019
