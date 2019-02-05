@@ -1,0 +1,6 @@
+rule all:
+    output: 
+        'success'
+    shell:
+        'exit 1'
+    
