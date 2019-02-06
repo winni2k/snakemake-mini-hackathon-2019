@@ -1,0 +1,9 @@
+rule all:
+    output: 
+        'success'
+    shell:
+        """
+        sleep 120
+        touch success
+	"""
+    
